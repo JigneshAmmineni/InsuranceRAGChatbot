@@ -1,0 +1,9 @@
+[  143688ms] [WARNING] WebSocket onclose @ http://localhost:8501/static/js/index.Drusyo5m.js:150
+[  143879ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/host-config:0
+[  143880ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/health:0
+[  143988ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/health:0
+[  143989ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/host-config:0
+[  144232ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/host-config:0
+[  144705ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/host-config:0
+[  145184ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/health:0
+[  145189ms] [ERROR] Failed to load resource: net::ERR_EMPTY_RESPONSE @ http://localhost:8501/_stcore/health:0

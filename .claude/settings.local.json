@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "Web Search"
+      "Web Search",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_wait_for",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__playwright__browser_click",
+      "mcp__playwright__browser_type",
+      "Bash(docker-compose logs:*)",
+      "Bash(docker-compose down:*)",
+      "Bash(docker-compose up:*)",
+      "Bash(docker compose up --build -d)"
     ]
   }
 }
